@@ -3,7 +3,8 @@ Talking Measurements:
 Numbers:
 
 to speak                           decimal         
---------------------------------------------------------
+---------------------------------------------------
+
 0                                       0          
 1                                       1
 2                                       2
@@ -43,7 +44,7 @@ to speak                           decimal
 900                                     36
 thousand                                139
 
---------------------------------------------------------
+---------------------------------------------------
 
 
 General and Link words or phrases:
@@ -71,7 +72,7 @@ talking measurements                    124
 there are                               138
 
 
---------------------------------------------------------
+---------------------------------------------------
 
 Warnings:
 
@@ -81,7 +82,7 @@ sensors for this mode are not connected 120
 warning approaching maximum             146
 warning                                 147
 
---------------------------------------------------------
+---------------------------------------------------
 
 Password:
 
@@ -89,23 +90,25 @@ password is correct                     109
 password is incorrect                   110
 please enter password                   112
 
---------------------------------------------------------
+---------------------------------------------------
 
 Battery Level:
   
 battery level                           41
 
---------------------------------------------------------
+---------------------------------------------------
 
 Bluetooth:
   
 bluetooth connection lost               42
 connected to bluetooth                  50
 
---------------------------------------------------------
+---------------------------------------------------
 
 Compass:
         
+degree                                  152
+degrees                                 57
 digital compass                         61
 east                                    69
 north                                   102
@@ -114,7 +117,7 @@ the direction is                        129
 west                                    148
 your bearing is                         149
 
---------------------------------------------------------
+---------------------------------------------------
 
 Current:
 
@@ -126,7 +129,7 @@ the current is                          128
 
 
 
---------------------------------------------------------
+---------------------------------------------------
 Clock:
 
 AM                                      37
@@ -141,29 +144,50 @@ minute                                  96
 minutes                                 97
 o'clock                                 104
 oh                                      105
+second                                  153
 seconds                                 119   
 the alarm is not set                    126
 the alarm is set                        127  
 the time is                             136
 
---------------------------------------------------------
+---------------------------------------------------
 
 GPS:
 
+degree                                  152
+degrees                                 57
+east                                    69
+foot                                    162
+feet                                    163
 gps fix                                 72
 gps location                            73
 gps                                     74
 ground speed is                         75
+kilometer                               160
+kilometers                              161
 kph (kilometers per hour)               86
+latitude                                154
+longitude                               155
+metre                                   156
+metres                                  157
+mile                                    158
+miles                                   159
+minute                                  96
+minutes                                 97
 mph (miles per hour)                    99
 no gps fix                              100
+north                                   102
 number of satellites is                 103
 satellites in view                      118
+second                                  153         
+seconds                                 119
+south                                   123
 the height is                           130
+west                                    148
 your location is                        150
 your position is                        151
 
---------------------------------------------------------
+---------------------------------------------------
 Humidity:
 
 digital humidity meter                  62
@@ -171,7 +195,7 @@ humidity                                77
 moisture content is                     98
 the relative humidity is                133                      
 
---------------------------------------------------------
+---------------------------------------------------
 
 Light:
 
@@ -180,7 +204,7 @@ light                                   87
 lux                                     88
 the light level is                      131
 
---------------------------------------------------------
+---------------------------------------------------
 
 Pressure:
     
@@ -190,7 +214,7 @@ pascalls                                109
 pressure                                115
 the pressure is                         132
 
---------------------------------------------------------
+---------------------------------------------------
 
 Resistance:
 
@@ -200,14 +224,14 @@ ohms                                    106
 resistance                              117
 the resistance is                       134
 
---------------------------------------------------------
+---------------------------------------------------
 
 Soil Moisture:
 
 digital soil moisture meter             64
 soil moisture                           122
 
---------------------------------------------------------
+---------------------------------------------------
 
 Temperature:
 
@@ -223,17 +247,21 @@ ice warning                             78
 temperature                             125
 the temperature is                      135
 
---------------------------------------------------------
+---------------------------------------------------
 
 Timer:
 
 countdown timer                         51
 digital timer                           66
+minute                                  96
+minutes                                 97
+second                                  153         
+seconds                                 119
 timer started                           140
 timer stopped at                        141
 timer                                   142
 
---------------------------------------------------------
+---------------------------------------------------
 
 Voltage:
 digital voltmeter                       67
@@ -241,8 +269,7 @@ the voltage is                          137
 voltage                                 144
 volts                                   145
 
---------------------------------------------------------
-
+---------------------------------------------------
 Ultrasonic:
 
 centimeter                              44
@@ -253,7 +280,7 @@ inches                                  81
 ultrasonic tape measure                 143
 
 
---------------------------------------------------------
+---------------------------------------------------
 
 
 
